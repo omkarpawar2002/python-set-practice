@@ -23,3 +23,9 @@ Sets are an important part of Python and are used for:
 - Efficient membership tests
 - Solving real-world problems like finding unique values, common items, etc.
 
+## 🚀 How to Use
+
+To get started, clone this repository and try solving the problems in each file. Explanations and expected outputs are provided where relevant.
+
+```bash
+git clone https://github.com/omkarpawar2002/python-set-practice.git
