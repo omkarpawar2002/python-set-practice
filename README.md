@@ -23,5 +23,3 @@ Sets are an important part of Python and are used for:
 - Efficient membership tests
 - Solving real-world problems like finding unique values, common items, etc.
 
-## 📂 Folder Structure
-
